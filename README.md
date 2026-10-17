@@ -1,4 +1,4 @@
-# Finance Toolkit
+# COMPOUNT INTEREST CALCULATOR
 
 A desktop finance utility built with Python and Tkinter. The application provides a compound-interest calculator, a bank FD rate comparison, a display of sample mutual-fund and government-savings rates, and a basic loan eligibility estimate.
 
